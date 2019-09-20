@@ -1,2 +1,2 @@
-model_checkpoint_path: "/content/GLADNet/"
-all_model_checkpoint_paths: "/content/GLADNet/"
+model_checkpoint_path: "/content/model/GLADNet/"
+all_model_checkpoint_paths: "/content/model/GLADNet/"
