@@ -163,7 +163,7 @@ class lowlight_enhance(object):
         tf.global_variables_initializer().run()
 
         print("[*] Reading checkpoint...")
-        load_model_status, _ = self.load(self.saver, './model/')
+        load_model_status, _ = self.load(self.saver, '/content/GLADNet/model/')
         if load_model_status:
             print("[*] Load weights successfully...")
         
